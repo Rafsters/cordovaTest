@@ -19,7 +19,6 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    
     <engine name="android" spec="^7.0.0" />
- 
+    <plugin name="cordova-plugin-contacts" spec="^3.0.1" />
 </widget>
