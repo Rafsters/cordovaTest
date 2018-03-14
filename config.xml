@@ -19,11 +19,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    <platform name="ios">
-        <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />
-    </platform>
+    
     <engine name="android" spec="^7.0.0" />
-    <engine name="ios" spec="^4.5.4" />
-    <plugin name="cordova-plugin-contacts" spec="^3.0.1" />
+ 
 </widget>
